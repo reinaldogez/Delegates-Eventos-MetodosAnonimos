@@ -1,0 +1,16 @@
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\DelegatesEventosMetodosAnonimos.deps.json
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\DelegatesEventosMetodosAnonimos.dll
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\ref\DelegatesEventosMetodosAnonimos.dll
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\DelegatesEventosMetodosAnonimos.pdb
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.csprojAssemblyReference.cache
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.AssemblyInfo.cs
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.dll
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\ref\DelegatesEventosMetodosAnonimos.dll
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.pdb
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\DelegatesEventosMetodosAnonimos.exe
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\DelegatesEventosMetodosAnonimos.runtimeconfig.json
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\bin\Debug\net5.0\DelegatesEventosMetodosAnonimos.runtimeconfig.dev.json
+C:\Users\rgez\Documents\z_GitHub\Delegates-Eventos-MetodosAnonimos\obj\Debug\net5.0\DelegatesEventosMetodosAnonimos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DelegatesEventosMetodosAnonimos/1.0.0": {
+        "runtime": {
+          "DelegatesEventosMetodosAnonimos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegatesEventosMetodosAnonimos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
