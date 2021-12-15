@@ -1,9 +1,23 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace DelegatesEventosMetodosAnonimos
 {
     public class Delegates
     {
+
+        public static List<int> EncontrarInteirosComValorMenorFunc()
+        {
+            List<int> listaInteiros = new List<int>() { 2, 3, 15, 17 };
+            //Primeiro exemplo utilizando método anônimo, no momento em que o Func delegate é instanciado.
+            Func<int, bool> WhereFunc = delegate (int valor)
+            {
+                return valor < 10;
+            };
+            return listaInteiros.Where(WhereFunc).ToList<int>();
+        }
+
         // O tipo T é declarado covariante utilizando a palavra-chave out. 
         public delegate T ExemploDelegateGenerico<out T>();
         public static void DelegateGenerico()

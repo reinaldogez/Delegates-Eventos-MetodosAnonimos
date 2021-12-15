@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DelegatesEventosMetodosAnonimos
 {
@@ -6,7 +7,8 @@ namespace DelegatesEventosMetodosAnonimos
     {
         static void Main(string[] args)
         {
-            new MetodosAnonimos().ExemploUtilizandoLista();
+            //new MetodosAnonimos().ExemploUtilizandoLista();
+            List<int> listaValoresMenoresQue10 = Delegates.EncontrarInteirosComValorMenorFunc();
         }
     }
 }
