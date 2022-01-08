@@ -6,6 +6,38 @@ namespace DelegatesEventosMetodosAnonimos
 {
     public class Delegates
     {
+        // definindo explicitamente o delegate personalizado
+        delegate string NovoDelegateConverteString(string inString);
+
+        public static void ExemploDelegateSemFuncDelegate()
+        {
+            // Instanciando o delegate personalizado para referenciar o método UppercaseString
+            NovoDelegateConverteString converteMetodo = UppercaseString;
+            string nome = "Brasil";
+            // Utilizando o delegate instanciado para chamar o método UppercaseString
+            Console.WriteLine(converteMetodo(nome));
+        }
+
+        private static string UppercaseString(string inputString)
+        {
+            return inputString.ToUpper();
+        }
+
+        public static void ExemploDelegateUtilizandoFuncDelegate()
+        {
+            // Instanciando o delegate Func para referenciar o método UppercaseString
+            Func<string, string> converteMetodo = UppercaseString;
+            string nome = "Brasil";
+            // Utilizando o delegate Func instanciado para chamar o método UppercaseString
+            Console.WriteLine(converteMetodo(nome));
+
+            string UppercaseString(string inputString)
+            {
+                return inputString.ToUpper();
+            }
+            // Esse exemplo produz no console o seguinte output
+            //    BRASIL
+        }
 
         public static List<int> EncontrarInteirosComValorMenorFunc()
         {

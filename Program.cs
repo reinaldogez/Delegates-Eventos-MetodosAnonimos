@@ -9,6 +9,8 @@ namespace DelegatesEventosMetodosAnonimos
         {
             //new MetodosAnonimos().ExemploUtilizandoLista();
             List<int> listaValoresMenoresQue10 = Delegates.EncontrarInteirosComValorMenorFunc();
+
+            Eventos eventos = new Eventos();
         }
     }
 }
